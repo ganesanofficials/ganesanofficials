@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ganesanofficials
-- 👀 I’m interested in android development 
+- 👀 I’m interested in android development and spring boot development
 - 🌱 I’m currently learning android jetpack compose
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ganesanofficials@gmail.com
